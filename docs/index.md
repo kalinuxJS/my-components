@@ -10,9 +10,6 @@ hero:
     - theme: brand
       text: 查看组件
       link: /components/alert
-    - theme: alt
-      text: View on Github
-      link: /api-examples
 features:
   - title: 技术zhan
     details: Vue3 + TypeScript

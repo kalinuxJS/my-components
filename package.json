@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "自己的组件库",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "deploy": "sh deploy.sh"
   },
   "repository": {
     "type": "git",
