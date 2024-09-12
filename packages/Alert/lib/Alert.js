@@ -1,7 +1,8 @@
 'use strict';
 
-module.exports = alert;
 
-function alert() {
+
+export default function alert() {
     // TODO
+    const a = 1;
 }

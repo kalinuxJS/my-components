@@ -3,6 +3,6 @@
  </script>
  <template>
  <div class="icon block">
- <Alert icon="star"> Star Button </Alert>
+ <Alert icon="star"> 怎么 </Alert>
  </div>
  </template>
