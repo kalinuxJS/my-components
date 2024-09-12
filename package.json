@@ -9,7 +9,7 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
-    "deploy": "./deploy.sh",
+    "deploy": "deploy.bat",
     "bootstrap": "lerna bootstrap",
     "commit": "git-cz"
   },
