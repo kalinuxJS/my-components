@@ -1,7 +1,3 @@
 'use strict';
-
-module.exports = button;
-
-function button() {
-    // TODO
-}
+import button from './Basic.vue'
+export default button
