@@ -8,3 +8,6 @@
   import 'element-plus/dist/index.css'
   import { ElButton } from 'element-plus'
 </script>
+<style lang="less">
+@import 'index.less';
+</style>

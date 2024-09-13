@@ -1,7 +1,6 @@
-'use strict';
+import Alert from './Alert.vue'
 
-
-
-export default function alert() {
-    // TODO
- }
+Alert.install = function(Vue){
+    Vue.component(Alert.name,Alert)
+}
+export default Alert

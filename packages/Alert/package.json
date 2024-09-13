@@ -22,7 +22,8 @@
     "url": "git+https://github.com/kalinuxJS/my-components.git"
   },
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "build-only":"vite build"
   },
   "bugs": {
     "url": "https://github.com/kalinuxJS/my-components/issues"

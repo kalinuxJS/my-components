@@ -1,3 +1,5 @@
-'use strict';
-import button from './Basic.vue'
-export default button
+import Button from './Button.vue'
+Button.install = function(Vue){
+    Vue.component(Button.name,Button)
+}
+export default Button
