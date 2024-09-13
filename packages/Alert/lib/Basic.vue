@@ -1,7 +1,4 @@
-<script setup>
-import Alert from '@element-plus/alert'
-</script>
 <template>
- <div class="icon block">hello world
- </div>
+ <div class="icon block">弹出alert
+  </div>
 </template>
